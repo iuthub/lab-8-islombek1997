@@ -1,4 +1,9 @@
-<?php
+/**
+ * Created by PhpStorm.
+ * User: Islombek
+ * Date: 06-04-2019
+ * Time: 19:52
+ */
 @extends('layouts.master')
 
 @section('content')
